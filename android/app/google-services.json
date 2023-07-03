@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "66694357826",
+    "firebase_url": "https://hmanage-95cbc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hmanage-95cbc",
+    "storage_bucket": "hmanage-95cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66694357826:android:90a6e8035a852c2f481edb",
+        "android_client_info": {
+          "package_name": "com.haash.hmanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66694357826-ig7puud1o3ds94qulan1mekoaoui73d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haash.hmanage",
+            "certificate_hash": "f263f75916f8554d420393658800774538c31194"
+          }
+        },
+        {
+          "client_id": "66694357826-52ntgq5a1q0r8ahh894f6m0pql5so2md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0JnQVFAAUXgMdjPI7oOAQimkucIGRWhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66694357826-52ntgq5a1q0r8ahh894f6m0pql5so2md.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66694357826-o78rcniauio6sp45v7g0n97dkako78a5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haash.hmanage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
